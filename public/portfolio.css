@@ -1,7 +1,33 @@
 body {background-color: ghostwhite;}
 
-h1 {color: maroon;}
+h1 {color: maroon;
+    font-family: 'Courier New', Courier, monospace;
 
-h2 {color: royalblue;}
+}
 
-h3 {color: seagreen;}
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {color: royalblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h3 {color: seagreen;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.p1 { font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 30px;
+    margin-right: 75px;
+}
+
+.wrk {
+    margin-left: 30px;
+    margin-right: 75px;
+}
+
+.school {
+    margin-left: 30px;
+    margin-right: 75px;
+}
